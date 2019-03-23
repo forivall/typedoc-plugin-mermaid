@@ -7,6 +7,8 @@
  */
 export abstract class Hoge {
 
+  private hoge!: string[];
+
   /**
    * Alice says "Hello John, how are you?" to Jone,
    * then John says "Great!".

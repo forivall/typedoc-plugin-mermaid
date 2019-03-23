@@ -1658,11 +1658,6 @@ typedoc-default-themes@^0.5.0:
   resolved "https://registry.yarnpkg.com/typedoc-default-themes/-/typedoc-default-themes-0.5.0.tgz#6dc2433e78ed8bea8e887a3acde2f31785bd6227"
   integrity sha1-bcJDPnjti+qOiHo6zeLzF4W9Yic=
 
-typedoc-plugin-mermaid@^0.9.7:
-  version "0.9.7"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-mermaid/-/typedoc-plugin-mermaid-0.9.7.tgz#820ea6a4cbe9b3439804acdc811daf9c96137c2f"
-  integrity sha512-9CCJp8bFsHzKTMQ1e2UUPeAwSGzgaJP4IMzPJ3QIejx7Dupy7CF2MB0gtcGurOMTk0y/DgTRd72EoFIkVwZvaw==
-
 typedoc@^0.14.2:
   version "0.14.2"
   resolved "https://registry.yarnpkg.com/typedoc/-/typedoc-0.14.2.tgz#769f457f4f9e4bdb8b5f3b177c86b6a31d8c3dc3"
